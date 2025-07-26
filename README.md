@@ -78,6 +78,7 @@ cmake --build . --config Release
 |------|---------|
 | `main.cpp` | Full source code — logic-driven design |
 | `README.md` | You're reading it now 😎 |
+| `CMakeLists.txt`  | Build configuration using CMake  |
 
 ---
 
