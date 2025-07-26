@@ -100,7 +100,7 @@ cmake --build . --config Release
 
 ```plaintext
 > Vui lòng nhập tên của bạn
-Dương van thang
+thang
 
 > Bạn muốn mua gì
 thitbo
