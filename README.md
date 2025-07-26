@@ -11,7 +11,7 @@
 
 ## 🧠 Project Overview
 
-### 🇺🇸 English Version
+### 🇺🇸 
 This project is a **console-based supermarket simulation**, coded in **pure C++** (no classes, no STL, just raw basics).
 
 **What you can do:**
@@ -28,7 +28,7 @@ This project is a **console-based supermarket simulation**, coded in **pure C++*
 - Functions
 - Basic string handling
 
-### 🇻🇳 Phiên bản Tiếng Việt
+### 🇻🇳 
 Dự án mô phỏng một siêu thị mini trên **giao diện dòng lệnh (Console)**, viết bằng **C++ cơ bản** nhất (không hướng đối tượng, không thư viện ngoài).
 
 **Tính năng:**
@@ -64,10 +64,10 @@ mkdir build && cd build
 cmake ..
 
 # Build the executable
-cmake --build .
+cmake --build . --config Release
 
 # Run the app
-./supermarket
+./supermarket.exe
 📍 Requirements: CMake and a C++ compiler (like g++ or clang++)
 
 ---
