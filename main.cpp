@@ -237,35 +237,35 @@ void inhoadon(float a, float b, float c, float d, float e) {
         f = a / 15;
         std::cout << " Thịt lợn số lượng: " << f << "\n"
         " Đơn giá: 15$" "\n"
-        " Só tiền phải trả: " << a << std::endl;
+        " Số tiền phải trả: " << a << std::endl;
     }
     if (b != 0) {
         f = 0;
         f = b / 20.5;
         std::cout << " Thịt bò số lượng: " << f << "\n"
         " Đơn giá: 20.5$" "\n"
-        " Só tiền phải trả: " << b << std::endl;
+        " Số tiền phải trả: " << b << std::endl;
     }
     if (c != 0) {
         f = 0;
         f = c / 12.5;
         std::cout << " Cá số lụong: " << f << "\n"
         " Đơn giá: 12.5$" "\n"
-        " Só tiền phải trả: " << c << std::endl;
+        " Số tiền phải trả: " << c << std::endl;
     } 
     if (d !=0) {
         f = 0;
         f = d / 10;
         std::cout << "  Rau số lụong: " << f << "\n"
         " Đơn giá: 10$" "\n"
-        " Só tiền phải trả: " << d << std::endl;
+        " Số tiền phải trả: " << d << std::endl;
     }
     if (e !=0) {
         f = 0;
         f = e / 11.5;
         std::cout << "  Cà rốt số lụong: " << f << "\n"
         " Đơn giá: 11,5$" "\n"
-        " Só tiền phải trả: " << e << std::endl;
+        " Số tiền phải trả: " << e << std::endl;
     }
     return;
 }
